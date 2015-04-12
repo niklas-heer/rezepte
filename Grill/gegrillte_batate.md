@@ -9,6 +9,8 @@
 | Paprikapulver                                  | 1 TL       |
 | Kreuzkümmel                                    | 1 TL (*)   |
 | Cayennepfeffer                                 | 1 TL (*)   |
+| Salz                                           | Prise      |
+| Pfeffer                                        | Prise      |
 
 (*) je nach Geschmack variieren.
 
@@ -28,6 +30,6 @@ Die Mengenangaben sind für einen Grillabend und nicht nur für eine Person geda
 1. Die Süßkartoffeln im Kochtopf ca. 20 min vorkochen.
 2. Die Süßkartoffeln im Kühlschrank abkühlen lassen. Dann lassen sich die Süßkartoffeln besser schneiden. (optional)
 3. Die Süßkartoffeln achteln. Es sollten ca. 2-3 cm dicke Stücke sein. Die Schale dran lassen.
-4. Die Süßkaroffeln in eine Schüssel mit dem Paprikapulver, Olivenöl, Kreuzkümmel und dem Cayennepfeffer geben, dann gut durchmischen.
+4. Die Süßkaroffeln in eine Schüssel mit dem Paprikapulver, Salz, Peffer, Olivenöl, Kreuzkümmel und dem Cayennepfeffer geben, dann gut durchmischen.
 5. Die Süßkartoffeln auf dem Grill grillen, bis sie außen schön knusprig sind.
 6. Genießen.
