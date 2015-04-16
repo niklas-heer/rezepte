@@ -40,7 +40,7 @@ Die Mengenangaben sind für einen Grillabend und nicht nur für eine Person geda
 |:-----------------------------------------------|:-----------|
 | Olivenöl                                       | 2 EL       |
 | Cayennepfeffer                                 | 1 TL (*)   |
-| braunen Zucker                                 | 2 EL       |
+| Rohrzucker oder braunen Zucker                 | 2 EL       |
 <sub><sup>(*) je nach Geschmack variieren.</sup></sub>
 <br>
 Alles in einem kleinen Schälchen geben und gut verrühren. Sollte die Masse nicht flüssig genug sein, einfach ein bisschen Olivenöl hinzugeben. Die Masse sollte sich leicht mit einem Pinsel auf den Süßkartoffeln verteilen lassen.
